@@ -1,1 +1,12 @@
-# Hohai-University-Auto-Internet-Auth
+# 河海大学网络认证脚本
+## 如何使用
+### 第一次使用
+进行一次正常登录，在登录时进行抓包
+
+获取InterFace.do?method=login中的一些个人信息
+
+将信息填入脚本
+
+运行脚本
+### 之后的使用
+运行脚本
